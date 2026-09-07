@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=680&lines=Architecting+Sovereign+Multi-Agent+Systems;Rust+%7C+Tauri+v2+%7C+Tokio+Async+Concurrency;Creator+of+Trans4mers+(Local+AI+Agent+OS);Cross-Platform+Builder+(Desktop%2C+Mobile%2C+Web);16%2B+Shipped+Projects+%E2%80%A2+9+Hackathons;Zero-Trust+AI+Governance+%26+Local+Inference" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=720&lines=AI+Product+Builder+%26+Systems+Engineer;Autonomous+Multi-Agent+Systems+%26+Governance;High-Performance+Systems+(Rust%2C+C%2FC%2B%2B%2C+Tokio);Cross-Platform+Engineering+(Desktop%2C+Mobile%2C+Web);Local-First+Intelligence+%26+Edge+Computing;Rapid+Prototyping+%26+End-to-End+Product+Delivery" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,15 +23,15 @@
   <a href="mailto:abhayzangir@gmail.com"><img src="https://img.shields.io/badge/Email-abhayzangir@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<!-- Quick Stats Counter -->
+<!-- Core Engineering Focus Pills (Evergreen - No Manual Counter Maintenance Needed) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Shipped_Projects-16+-blue?style=flat-square&logo=git&logoColor=white" alt="Projects" />
+  <img src="https://img.shields.io/badge/Architecture-Autonomous_Multi--Agent_Swarms-6366F1?style=flat-square&logo=diagram-project&logoColor=white" alt="Multi-Agent" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Hackathons-9-orange?style=flat-square&logo=hackerearth&logoColor=white" alt="Hackathons" />
+  <img src="https://img.shields.io/badge/Systems-Rust_%26_Async_Tokio-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Local_AI_%26_Systems-success?style=flat-square&logo=rust&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Cross--Platform-Desktop_%7C_Mobile_%7C_Web-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Cross-Platform" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Security-Zero_Trust_Governance-purple?style=flat-square&logo=shield&logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/Security-Zero--Trust_AI_Governance-10B981?style=flat-square&logo=shield&logoColor=white" alt="Governance" />
 </p>
 
 </div>
