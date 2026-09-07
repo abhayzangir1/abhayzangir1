@@ -95,17 +95,17 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhayzangir1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayzangir1&theme=tokyonight" alt="GitHub Profile Summary" height="195" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayzangir1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhayzangir1&theme=tokyonight" alt="Languages Card" height="195" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayzangir1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=abhayzangir1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
