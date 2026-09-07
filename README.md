@@ -1,101 +1,163 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- Header Capsule Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=180&section=header&text=Abhay%20Zangir&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20AI%20Architect%20%7C%20Open%20Source%20Builder&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=190&section=header&text=Abhay%20Zangir&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20Product%20Builder%20%7C%20Systems%20Engineer%20%7C%20Open%20Source%20Architect&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=620&lines=Building+Sovereign+Multi-Agent+Systems;Rust+%7C+Tauri+v2+%7C+Tokio+%7C+Distributed+Computing;Creator+of+Trans4mers;Zero-Trust+AI+Governance+%26+Local+Inference" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=680&lines=Architecting+Sovereign+Multi-Agent+Systems;Rust+%7C+Tauri+v2+%7C+Tokio+Async+Concurrency;Creator+of+Trans4mers+(Local+AI+Agent+OS);Cross-Platform+Builder+(Desktop%2C+Mobile%2C+Web);16%2B+Shipped+Projects+%E2%80%A2+9+Hackathons;Zero-Trust+AI+Governance+%26+Local+Inference" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://github.com/abhayzangir1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/abhayzangir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/abhayzangir"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-  <a href="mailto:abhayzangir@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/abhayzangir1"><img src="https://img.shields.io/badge/GitHub-abhayzangir1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abhayzangir/"><img src="https://img.shields.io/badge/LinkedIn-abhayzangir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://devpost.com/abhayzangir"><img src="https://img.shields.io/badge/Devpost-abhayzangir-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>
+  &nbsp;
+  <a href="https://x.com/abhayzangir1"><img src="https://img.shields.io/badge/X-@abhayzangir1-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  &nbsp;
+  <a href="mailto:abhayzangir@gmail.com"><img src="https://img.shields.io/badge/Email-abhayzangir@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<!-- Quick Stats Counter -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Shipped_Projects-16+-blue?style=flat-square&logo=git&logoColor=white" alt="Projects" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hackathons-9-orange?style=flat-square&logo=hackerearth&logoColor=white" alt="Hackathons" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Local_AI_%26_Systems-success?style=flat-square&logo=rust&logoColor=white" alt="Focus" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Security-Zero_Trust_Governance-purple?style=flat-square&logo=shield&logoColor=white" alt="Security" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Engineering Profile
 
-- 🔭 **Current Focus**: Architecting **[Trans4mers](https://github.com/abhayzangir1/trans4mer)**, an event-sourced sovereign multi-agent desktop OS with local inference, zero-trust governance, and a 4-tier cognitive memory pyramid.
-- ⚡ **Core Domain**: High-concurrency Rust backends, event-sourced CQRS architectures, local vector retrieval engines, and browser automation via CDP.
-- 🛠️ **Philosophy**: Sovereign, zero-cloud data privacy, deterministic execution, and low-latency native interfaces.
-- 💬 **Ask Me About**: Multi-agent swarms, Rust async concurrency (Tokio/Tauri), RAG retrieval algorithms (BM25 + RRF), and AI safety gating.
-- 📫 **Direct Contact**: [abhayzangir@gmail.com](mailto:abhayzangir@gmail.com)
+I am an **AI Product Builder** and **Systems Engineer** focused on sovereign, local-first intelligence, multi-agent orchestrators, and high-performance native desktop & mobile architectures. 
+
+My engineering background bridges low-level systems programming (Rust, C/C++, SQLite, IPC bridges, PTY sessions) with pragmatic full-stack product shipping (Tauri v2, React 18, Android Jetpack Compose, CameraX, Computer Vision).
+
+- 🔭 **Current Flagship**: Designing and implementing **[Trans4mers](https://github.com/abhayzangir1/trans4mer)**, a sovereign multi-agent desktop OS with local Ollama inference, a 4-tier cognitive memory pyramid (Working, Episodic, Semantic, Procedural), zero-trust diff gating, and native PTY terminal integration.
+- ⚡ **Core Systems Focus**: Concurrency control (Tokio Semaphores & Mutexes), event-sourced CQRS patterns, hybrid vector retrieval (BM25 + LanceDB via Reciprocal Rank Fusion), and CDP browser automation.
+- 🛡️ **AI Governance Philosophy**: Zero-trust execution boundaries, deterministic capabilities, immutable audit telemetry, and strict human-in-the-loop review.
+- 💬 **Collaborations & Inquiries**: Multi-agent swarms, Rust async runtimes, local RAG architectures, or product prototyping.
+- 📫 **Reach Me**: [abhayzangir@gmail.com](mailto:abhayzangir@gmail.com) • [LinkedIn](https://www.linkedin.com/in/abhayzangir/) • [X (@abhayzangir1)](https://x.com/abhayzangir1)
 
 ---
 
-### 🛠️ Tech Stack & Engineering Toolkit
+### 🛠️ Tech Stack & Systems Toolkit
 
 <div align="center">
 
-| Layer | Technologies |
+| Domain | Stack & Technologies |
 | :--- | :--- |
-| **Systems & Core** | <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,linux,bash" alt="Systems" /> |
-| **Frontend & Desktop** | <img src="https://skillicons.dev/icons?i=tauri,ts,react,nextjs,tailwind,html,css" alt="Frontend" /> |
-| **Databases & Storage** | <img src="https://skillicons.dev/icons?i=sqlite,postgres,redis" alt="Databases" /> |
-| **DevOps & Tooling** | <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode" alt="Tools" /> |
+| **Systems & Concurrency** | <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,linux,bash" alt="Systems" /> |
+| **Desktop & Native Mobile** | <img src="https://skillicons.dev/icons?i=tauri,android,kotlin,apple" alt="Desktop & Mobile" /> |
+| **Frontend & Web** | <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css" alt="Frontend" /> |
+| **Databases & Vector Storage** | <img src="https://skillicons.dev/icons?i=sqlite,postgres,redis,mysql" alt="Databases" /> |
+| **DevOps, Cloud & Tools** | <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,vscode" alt="Tools" /> |
 
 </div>
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Highlighted Projects & System Implementations
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/abhayzangir1/trans4mer">⚡ Trans4mers</a></h3>
       <p align="center">
+        <a href="https://github.com/abhayzangir1/trans4mer"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+        <a href="https://devpost.com/software/trans4mers"><img src="https://img.shields.io/badge/Devpost-Entry-003E54?style=flat-square&logo=devpost" alt="Devpost" /></a>
+      </p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
         <img src="https://img.shields.io/badge/Tauri_v2-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/SQLite_FTS5-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
         <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       </p>
-      <p>Sovereign multi-agent desktop operating system. Event-sourced CQRS engine, local Ollama LLM streaming, 4-tier cognitive memory pyramid, zero-trust diff reviews, and native PTY sessions.</p>
+      <p>Sovereign multi-agent desktop OS. Features local Ollama streaming, 4-tier cognitive memory pyramid, hybrid BM25/vector search via Reciprocal Rank Fusion, zero-trust diff reviewer, and native PTY terminal sessions.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/abhayzangir1/AgentOps">🛡️ AgentOps</a></h3>
+      <h3 align="center"><a href="https://devpost.com/software/agentops-4cvhr3">🛡️ AgentOps</a></h3>
+      <p align="center">
+        <a href="https://devpost.com/software/agentops-4cvhr3"><img src="https://img.shields.io/badge/Devpost-Entry-003E54?style=flat-square&logo=devpost" alt="Devpost" /></a>
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Governance-6366F1?style=flat-square" alt="Governance" />
+        <img src="https://img.shields.io/badge/AWS_Aurora-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Aurora" />
+        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
         <img src="https://img.shields.io/badge/Telemetry-10B981?style=flat-square" alt="Telemetry" />
       </p>
-      <p>AI governance layer for autonomous agents. Real-time telemetry, immutable audit logging, strict financial cost enforcement, and human-in-the-loop safeguards.</p>
+      <p>The missing AI governance layer for autonomous agents. Provides real-time telemetry, immutable audit logging, strict financial cost enforcement, and human-in-the-loop safeguards.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/abhayzangir1/DrapeIt">🎨 DrapeIt</a></h3>
+      <h3 align="center"><a href="https://devpost.com/software/drapeit">🎨 DrapeIt</a></h3>
+      <p align="center">
+        <a href="https://devpost.com/software/drapeit"><img src="https://img.shields.io/badge/Devpost-Entry-003E54?style=flat-square&logo=devpost" alt="Devpost" /></a>
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose" />
-        <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat-square" alt="CV" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/CameraX-4285F4?style=flat-square" alt="CameraX" />
+        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" alt="MediaPipe" />
       </p>
-      <p>Real-time AR virtual drape and AI virtual try-on studio built on CameraX, Jetpack Compose, and cloud-assisted computer vision colorimetry.</p>
+      <p>Real-time AR virtual draping studio with 14 PBR material shaders and YouCam AI colorimetry on Android Jetpack Compose for photorealistic personal styling.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/abhayzangir1/knot">🪢 Knot</a></h3>
+      <h3 align="center"><a href="https://devpost.com/software/five-villians">⚔️ Five Villains</a></h3>
+      <p align="center">
+        <a href="https://devpost.com/software/five-villians"><img src="https://img.shields.io/badge/Devpost-Entry-003E54?style=flat-square&logo=devpost" alt="Devpost" /></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Multi--Agent-6366F1?style=flat-square" alt="MultiAgent" />
+        <img src="https://img.shields.io/badge/Adversarial_Debate-EF4444?style=flat-square" alt="Adversarial" />
+      </p>
+      <p>Adversarial idea and architecture stress-testing platform. Subjects startup proposals and product designs to five distinct critical personas to surface fatal flaws before deployment.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://devpost.com/software/modmutex">🔒 ModMutex</a></h3>
+      <p align="center">
+        <a href="https://devpost.com/software/modmutex"><img src="https://img.shields.io/badge/Devpost-Entry-003E54?style=flat-square&logo=devpost" alt="Devpost" /></a>
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" />
-        <img src="https://img.shields.io/badge/Automation-F59E0B?style=flat-square" alt="Automation" />
+        <img src="https://img.shields.io/badge/Reddit_API-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" />
+        <img src="https://img.shields.io/badge/Concurrency-008080?style=flat-square" alt="Concurrency" />
       </p>
-      <p>Autonomous Slack workflow agent that identifies loose ends, unresolved action items, and conversational decisions across organizational channels.</p>
+      <p>Atomic modqueue coordination for large moderation teams, preventing duplicate reviews, race conditions, and conflicting moderator actions in high-traffic subreddits.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://devpost.com/software/pulseguard-58lobf">🚨 PulseGuard</a></h3>
+      <p align="center">
+        <a href="https://devpost.com/software/pulseguard-58lobf"><img src="https://img.shields.io/badge/Devpost-Entry-003E54?style=flat-square&logo=devpost" alt="Devpost" /></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Real--Time-NLP-10B981?style=flat-square" alt="NLP" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+        <img src="https://img.shields.io/badge/Threat_Containment-DC2626?style=flat-square" alt="Containment" />
+      </p>
+      <p>Autonomous thread containment engine that detects viral toxicity spikes and harassment surges in real-time before online discussions spiral out of control.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Activity & Real-Time Analytics
 
 <div align="center">
 
