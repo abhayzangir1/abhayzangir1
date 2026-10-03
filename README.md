@@ -44,7 +44,7 @@ I am an **AI Product Builder** and **Systems Engineer** focused on sovereign, lo
 
 My engineering background bridges low-level systems programming (Rust, C/C++, SQLite, IPC bridges, PTY sessions) with pragmatic full-stack product shipping (Tauri v2, React 18, Android Jetpack Compose, CameraX, Computer Vision).
 
-- 🔭 **Current Flagship**: Designing and implementing **[Trans4mers](https://github.com/abhayzangir1/trans4mer)**, a sovereign multi-agent desktop OS with local Ollama inference, a 4-tier cognitive memory pyramid (Working, Episodic, Semantic, Procedural), zero-trust diff gating, and native PTY terminal integration.
+- 🔭 **Current Flagship**: Architecting and developing **[KIN](https://github.com/abhayzangir1/KIN)** — The Autonomous Local-First Workforce Operating System. Features crash-resilient turn checkpointing, HTTP 429 quota guard with local Ollama fallback, distributed atomic task leases, Antigravity slash commands, and governed desktop/browser control.
 - ⚡ **Core Systems Focus**: Concurrency control (Tokio Semaphores & Mutexes), event-sourced CQRS patterns, hybrid vector retrieval (BM25 + LanceDB via Reciprocal Rank Fusion), and CDP browser automation.
 - 🛡️ **AI Governance Philosophy**: Zero-trust execution boundaries, deterministic capabilities, immutable audit telemetry, and strict human-in-the-loop review.
 - 💬 **Collaborations & Inquiries**: Multi-agent swarms, Rust async runtimes, local RAG architectures, or product prototyping.
@@ -73,18 +73,18 @@ My engineering background bridges low-level systems programming (Rust, C/C++, SQ
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/abhayzangir1/trans4mer">⚡ Trans4mers</a></h3>
+      <h3 align="center"><a href="https://github.com/abhayzangir1/KIN">⚡ KIN OS</a></h3>
       <p align="center">
-        <a href="https://github.com/abhayzangir1/trans4mer"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-        <a href="https://devpost.com/software/trans4mers"><img src="https://img.shields.io/badge/Devpost-Entry-003E54?style=flat-square&logo=devpost" alt="Devpost" /></a>
+        <a href="https://github.com/abhayzangir1/KIN"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+        <a href="https://github.com/abhayzangir1/KIN"><img src="https://img.shields.io/badge/Status-Active_Flagship-10B981?style=flat-square" alt="Active" /></a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-        <img src="https://img.shields.io/badge/Tauri_v2-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
-        <img src="https://img.shields.io/badge/SQLite_FTS5-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/SQLite_WAL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Ollama-Local_Inference-white?style=flat-square&logo=ollama&logoColor=black" alt="Ollama" />
       </p>
-      <p>Sovereign multi-agent desktop OS. Features local Ollama streaming, 4-tier cognitive memory pyramid, hybrid BM25/vector search via Reciprocal Rank Fusion, zero-trust diff reviewer, and native PTY terminal sessions.</p>
+      <p>The Autonomous Local-First Workforce Operating System. Multi-agent coordination with turn-by-turn crash recovery, HTTP 429 quota guard, distributed atomic task leases, Antigravity slash commands, and governed desktop/browser control.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://devpost.com/software/agentops-4cvhr3">🛡️ AgentOps</a></h3>
