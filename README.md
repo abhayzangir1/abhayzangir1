@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Capsule Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=190&section=header&text=Abhay%20Zangir&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20Product%20Builder%20%7C%20Systems%20Engineer%20%7C%20Open%20Source%20Architect&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=190&section=header&text=Abhay%20Zangir&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20Product%20Builder%20%7C%20Software%20Engineer%20%7C%20Open%20Source%20Developer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=720&lines=AI+Product+Builder+%26+Systems+Engineer;Autonomous+Multi-Agent+Systems+%26+Governance;High-Performance+Systems+(Rust%2C+C%2FC%2B%2B%2C+Tokio);Cross-Platform+Engineering+(Desktop%2C+Mobile%2C+Web);Local-First+Intelligence+%26+Edge+Computing;Rapid+Prototyping+%26+End-to-End+Product+Delivery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=720&lines=AI+Product+Builder+%26+Software+Engineer;Multi-Agent+Workflows+%26+Developer+Tools;Cross-Platform+Engineering+(Desktop%2C+Mobile%2C+Web);Local-First+Software+%26+Product+Prototyping;TypeScript%2C+Python%2C+Rust%2C+and+React" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,15 +23,15 @@
   <a href="mailto:abhayzangir@gmail.com"><img src="https://img.shields.io/badge/Email-abhayzangir@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<!-- Core Engineering Focus Pills (Evergreen - No Manual Counter Maintenance Needed) -->
+<!-- Core Engineering Focus Pills -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Autonomous_Multi--Agent_Swarms-6366F1?style=flat-square&logo=diagram-project&logoColor=white" alt="Multi-Agent" />
+  <img src="https://img.shields.io/badge/Architecture-Multi--Agent_Workflows-6366F1?style=flat-square&logo=diagram-project&logoColor=white" alt="Multi-Agent" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Systems-Rust_%26_Async_Tokio-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Stack-TypeScript_%26_Python-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Stack" />
   &nbsp;
   <img src="https://img.shields.io/badge/Cross--Platform-Desktop_%7C_Mobile_%7C_Web-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Cross-Platform" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Security-Zero--Trust_AI_Governance-10B981?style=flat-square&logo=shield&logoColor=white" alt="Governance" />
+  <img src="https://img.shields.io/badge/Security-Permissions_%26_Governance-10B981?style=flat-square&logo=shield&logoColor=white" alt="Governance" />
 </p>
 
 </div>
@@ -40,40 +40,39 @@
 
 ### 👨‍💻 Engineering Profile
 
-I am an **AI Product Builder** and **Systems Engineer** focused on sovereign, local-first intelligence, multi-agent orchestrators, and high-performance native desktop & mobile architectures. 
+I am an **AI Product Builder** and **Software Engineer** focused on local-first tools, multi-agent workflows, and cross-platform desktop & mobile applications.
 
-My engineering background bridges low-level systems programming (Rust, C/C++, SQLite, IPC bridges, PTY sessions) with pragmatic full-stack product shipping (Tauri v2, React 18, Android Jetpack Compose, CameraX, Computer Vision).
+My engineering background spans application development across desktop, web, and mobile (TypeScript, React 18, Tauri v2, Python, Android Jetpack Compose, SQLite).
 
-- 🔭 **Current Flagship**: Architecting and developing **[KIN](https://github.com/abhayzangir1/KIN)** — The Autonomous Local-First Workforce Operating System. Features crash-resilient turn checkpointing, HTTP 429 quota guard with local Ollama fallback, distributed atomic task leases, Antigravity slash commands, and governed desktop/browser control.
-- ⚡ **Core Systems Focus**: Concurrency control (Tokio Semaphores & Mutexes), event-sourced CQRS patterns, hybrid vector retrieval (BM25 + LanceDB via Reciprocal Rank Fusion), and CDP browser automation.
-- 🛡️ **AI Governance Philosophy**: Zero-trust execution boundaries, deterministic capabilities, immutable audit telemetry, and strict human-in-the-loop review.
-- 💬 **Collaborations & Inquiries**: Multi-agent swarms, Rust async runtimes, local RAG architectures, or product prototyping.
+- 🔭 **Current Flagship**: Developing **[KIN](https://github.com/abhayzangir1/KIN)** — A local-first workspace for AI chats, projects, and agent workflows. Features multi-agent collaboration with local turn checkpoints, model provider connections with Ollama support, task tracking, slash commands, and desktop/browser tools.
+- 🛡️ **Software Safety**: Scoped execution boundaries, approval flows, event journals, and human-in-the-loop review.
+- 💬 **Collaborations & Inquiries**: Multi-agent collaboration, local model workflows, or product prototyping.
 - 📫 **Reach Me**: [abhayzangir@gmail.com](mailto:abhayzangir@gmail.com) • [LinkedIn](https://www.linkedin.com/in/abhayzangir/) • [X (@abhayzangir1)](https://x.com/abhayzangir1)
 
 ---
 
-### 🛠️ Tech Stack & Systems Toolkit
+### 🛠️ Tech Stack & Toolkit
 
 <div align="center">
 
 | Domain | Stack & Technologies |
 | :--- | :--- |
-| **Systems & Concurrency** | <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,linux,bash" alt="Systems" /> |
+| **Core Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,rust,bash" alt="Core Languages" /> |
 | **Desktop & Native Mobile** | <img src="https://skillicons.dev/icons?i=tauri,android,kotlin,apple" alt="Desktop & Mobile" /> |
 | **Frontend & Web** | <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css" alt="Frontend" /> |
-| **Databases & Vector Storage** | <img src="https://skillicons.dev/icons?i=sqlite,postgres,redis,mysql" alt="Databases" /> |
+| **Databases & Storage** | <img src="https://skillicons.dev/icons?i=sqlite,postgres,redis,mysql" alt="Databases" /> |
 | **DevOps, Cloud & Tools** | <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,vscode" alt="Tools" /> |
 
 </div>
 
 ---
 
-### 🚀 Highlighted Projects & System Implementations
+### 🚀 Highlighted Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/abhayzangir1/KIN">⚡ KIN OS</a></h3>
+      <h3 align="center"><a href="https://github.com/abhayzangir1/KIN">⚡ KIN</a></h3>
       <p align="center">
         <a href="https://github.com/abhayzangir1/KIN"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>
         <a href="https://github.com/abhayzangir1/KIN"><img src="https://img.shields.io/badge/Status-Active_Flagship-10B981?style=flat-square" alt="Active" /></a>
@@ -84,7 +83,7 @@ My engineering background bridges low-level systems programming (Rust, C/C++, SQ
         <img src="https://img.shields.io/badge/SQLite_WAL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
         <img src="https://img.shields.io/badge/Ollama-Local_Inference-white?style=flat-square&logo=ollama&logoColor=black" alt="Ollama" />
       </p>
-      <p>The Autonomous Local-First Workforce Operating System. Multi-agent coordination with turn-by-turn crash recovery, HTTP 429 quota guard, distributed atomic task leases, Antigravity slash commands, and governed desktop/browser control.</p>
+      <p>Local-first workspace for AI chats, projects, and multi-agent workflows. Multi-agent coordination with local turn checkpoints, model provider connections with Ollama support, task tracking, slash commands, and desktop/browser tools.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://devpost.com/software/agentops-4cvhr3">🛡️ AgentOps</a></h3>
@@ -97,7 +96,7 @@ My engineering background bridges low-level systems programming (Rust, C/C++, SQ
         <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
         <img src="https://img.shields.io/badge/Telemetry-10B981?style=flat-square" alt="Telemetry" />
       </p>
-      <p>The missing AI governance layer for autonomous agents. Provides real-time telemetry, immutable audit logging, strict financial cost enforcement, and human-in-the-loop safeguards.</p>
+      <p>AI governance layer for autonomous agents. Provides telemetry, structured audit logging, cost enforcement, and human-in-the-loop safeguards.</p>
     </td>
   </tr>
   <tr>
@@ -124,7 +123,7 @@ My engineering background bridges low-level systems programming (Rust, C/C++, SQ
         <img src="https://img.shields.io/badge/Multi--Agent-6366F1?style=flat-square" alt="MultiAgent" />
         <img src="https://img.shields.io/badge/Adversarial_Debate-EF4444?style=flat-square" alt="Adversarial" />
       </p>
-      <p>Adversarial idea and architecture stress-testing platform. Subjects startup proposals and product designs to five distinct critical personas to surface fatal flaws before deployment.</p>
+      <p>Adversarial idea and architecture stress-testing platform. Subjects startup proposals and product designs to five distinct critical personas to surface flaws before deployment.</p>
     </td>
   </tr>
   <tr>
@@ -136,9 +135,9 @@ My engineering background bridges low-level systems programming (Rust, C/C++, SQ
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Reddit_API-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" />
-        <img src="https://img.shields.io/badge/Concurrency-008080?style=flat-square" alt="Concurrency" />
+        <img src="https://img.shields.io/badge/Tooling-Moderation-008080?style=flat-square" alt="Moderation" />
       </p>
-      <p>Atomic modqueue coordination for large moderation teams, preventing duplicate reviews, race conditions, and conflicting moderator actions in high-traffic subreddits.</p>
+      <p>Modqueue coordination tool for community moderation teams, helping avoid duplicate reviews and conflicting moderator actions.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://devpost.com/software/pulseguard-58lobf">🚨 PulseGuard</a></h3>
@@ -150,7 +149,7 @@ My engineering background bridges low-level systems programming (Rust, C/C++, SQ
         <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
         <img src="https://img.shields.io/badge/Threat_Containment-DC2626?style=flat-square" alt="Containment" />
       </p>
-      <p>Autonomous thread containment engine that detects viral toxicity spikes and harassment surges in real-time before online discussions spiral out of control.</p>
+      <p>Thread monitoring tool that detects toxicity spikes in real-time before discussions escalate.</p>
     </td>
   </tr>
 </table>
